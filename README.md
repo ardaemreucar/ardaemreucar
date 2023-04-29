@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Arda Emre Ucar</h1>
 <h3 align="center">A passionate Devops Engineer from Turkey</h3>
