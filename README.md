@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arda Emre Ucar</h1>
 <h3 align="center">A passionate Devops Engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Docker**
+- 🔭 I’m currently working on **Devops**
 
 - 🌱 I’m currently learning **Docker,AWS Services,Kubernetes,Jenkins**
 
